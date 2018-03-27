@@ -1,0 +1,66 @@
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\SmartMethodStore.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\SmartMethodStore.pdb
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Antlr3.Runtime.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.Core.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\EntityFramework.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\System.Web.Optimization.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\System.Web.Providers.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\WebGrease.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\EntityFramework.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.Core.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.csprojResolveAssemblyReference.cache
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.dll
+C:\Practice\ASP.NET45\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.pdb
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\SmartMethodStore.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\SmartMethodStore.pdb
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Antlr3.Runtime.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\AspNet.ScriptManager.jQuery.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.AspNet.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.Core.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\EntityFramework.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.ScriptManager.WebForms.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.Web.Infrastructure.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\System.Web.Optimization.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\System.Web.Providers.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\WebGrease.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\EntityFramework.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.Core.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\DotNetOpenAuth.AspNet.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.csprojResolveAssemblyReference.cache
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.dll
+C:\paul\Practice Projects\asp.net\ASP.NET45\Sample Projects\SmartMethodStore\SmartMethodStore\obj\Debug\SmartMethodStore.pdb
